@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Mon Aug 02 14:32:32 EDT 2021
+0.base=/Users/eugenem/Desktop/AutomationTesting/Mobile/Android/chapter-6/app/build/intermediates/transforms/dexMerger/androidTest/debug/0
+0.path=classes.dex
+count=1
+0.baseType=DIRECTORY
+0.set=DEX

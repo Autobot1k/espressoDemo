@@ -1,0 +1,4 @@
+#Mon Aug 02 14:32:32 EDT 2021
+base.0=/Users/eugenem/Desktop/AutomationTesting/Mobile/Android/chapter-6/app/build/intermediates/transforms/dexMerger/androidTest/debug/0
+renamed.0=classes.dex
+path.0=classes.dex
